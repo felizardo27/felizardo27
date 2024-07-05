@@ -1,10 +1,9 @@
-## Hi there 👋
+## Hi there <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="30" height="30">
 
 - 🔭 I’m currently working at AsA Sistemas
 - 🎓 Bachelor’s degree in Computer Science, 
 - 🍀 My hobbies are watching series, anime, studying new technologies
 - 📖 Currently diving deeper into React Native.
-
 
 <br>
 
@@ -24,8 +23,7 @@
 
  <br>
  
-  ### How to reach me
- 
+### How to reach me:
 <div> 
   <a href="https://instagram.com/felizardo27" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jp.felizardo27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
