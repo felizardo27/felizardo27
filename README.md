@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on AsA Sistemas
+- 🔭 I’m currently working at AsA Sistemas
 - 🎓 Bachelor’s degree in Computer Science, 
 - 🍀 My hobbies are watching series, anime, studying new technologies
 - 📖 Currently diving deeper into React Native.
