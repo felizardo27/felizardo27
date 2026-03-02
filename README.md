@@ -27,3 +27,10 @@
   <a href = "mailto:jp.felizardo27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felizardo27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div>
+  <br>
+ 
+  ![Profile Views](https://komarev.com/ghpvc/?username=felizardo27&style=flat&color=00b4d8&label=Profile+Views)
+  
+</div>
