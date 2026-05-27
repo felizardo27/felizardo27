@@ -59,14 +59,14 @@ I enjoy creating practical products, SaaS ideas, internal tools and scalable app
 ### 📊 GitHub Overview
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felizardo27&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felizardo27&theme=nightowl" />
 </div>
 
 <br>
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felizardo27&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felizardo27&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felizardo27&theme=nightowl" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felizardo27&theme=nightowl" />
 </div>
 
 ---
